@@ -3,11 +3,12 @@ package com.git;
 public class GitDemo {
 	
 	public static void main(String[] args) {
-		System.out.println("第一次使用");
-		System.out.println("第二次使用");
-		System.out.println("第sen次使用");
-		System.out.println("第si次使用");
-		System.out.println("第wu次使用");
-		System.out.println("第liu次使用");
+		System.out.println("锟斤拷一锟斤拷使锟斤拷");
+		System.out.println("锟节讹拷锟斤拷使锟斤拷");
+		System.out.println("锟斤拷sen锟斤拷使锟斤拷");
+		System.out.println("锟斤拷si锟斤拷使锟斤拷");
+		System.out.println("锟斤拷wu锟斤拷使锟斤拷");
+		System.out.println("锟斤拷liu锟斤拷使锟斤拷");
+		System.out.println("hahahhaha");
 	}
 }
