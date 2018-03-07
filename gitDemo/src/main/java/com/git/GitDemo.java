@@ -7,5 +7,6 @@ public class GitDemo {
 		System.out.println("第二次使用");
 		System.out.println("第sen次使用");
 		System.out.println("第si次使用");
+		System.out.println("第wu次使用");
 	}
 }
